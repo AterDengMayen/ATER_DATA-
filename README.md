@@ -117,5 +117,4 @@ Ater Deng Mayen
 🔗 LinkedIn: (Insert your link)
 📧 aterdeng88@gmail.com
 
-
-![Cover](src/unsplash-YdYjQj7BU_k (1).jpg)
+![CoverImage](src/dashboard.png)
