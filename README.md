@@ -1,5 +1,4 @@
-Kakuma & Kalobeyei Water Access Analysis Project
-📊 A Data Analytics Capstone Project
+# Kakuma & Kalobeyei Water Access Analysis Project : A Data Analytics Capstone Project
 1. Project Title
 
 Kakuma & Kalobeyei Water Access and Sanitation Data Analysis
@@ -119,7 +118,4 @@ Ater Deng Mayen
 📧 aterdeng88@gmail.com
 
 
-
-<img width="1330" height="582" alt="image" src="https://github.com/user-attachments/assets/4048b248-4f41-4c82-9b41-0679848d5760" />
-
-
+[Cover](src/unsplash-YdYjQj7BU_k (1).jpg)
