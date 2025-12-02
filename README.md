@@ -116,5 +116,4 @@ Ater Deng Mayen
 
 
 
-You said:
-how to create the following folders in resipotory of GiHhub data raw,read.md,gitignore,contribution.md,lincense,.doc.notebooks,reports,src,test,requirement.txts,non technical presentation# ATER_DATA-
+
