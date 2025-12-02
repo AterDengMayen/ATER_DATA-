@@ -56,7 +56,13 @@ Liters_Per_Person_Day	Daily water access
 Distance_to_Water_Source	Walking distance (m)
 Sanitation_Score	Condition of sanitation facilities
 Water_Source_Type	Piped, borehole, tanker, etc.
-7. 
+7. Business require .txt
+pandas
+numpy
+matplotlib
+jupyter
+
+tableau
 
 
 
@@ -68,8 +74,7 @@ Water_Source_Type	Piped, borehole, tanker, etc.
 
 
 
-
-9. Exploratory Data Analysis (EDA) Summary
+8. Exploratory Data Analysis (EDA) Summary
 
 Key insights:
 
@@ -81,7 +86,7 @@ Distance to water sources is far above recommended levels
 
 Boreholes are the most common but least stable sources
 
-10. Conclusions
+9. Conclusions
 
 Water access is far below humanitarian standards
 
@@ -91,7 +96,7 @@ Zones require targeted interventions and monitoring
 
 Dashboard visualizations support real-time decision making
 
-11. Recommendations
+10. Recommendations
 
 ✔ Increase borehole capacity
 ✔ Expand piped water systems
@@ -99,14 +104,14 @@ Dashboard visualizations support real-time decision making
 ✔ Deploy WASH monitoring dashboards
 ✔ Focus on high-risk zones for urgent intervention
 
-12. Non-Technical Summary (Simple Language)
+11. Non-Technical Summary (Simple Language)
 
 Residents walk long distances for little water.
 Most zones do not meet international standards.
 Sanitation is poor where water access is low.
 Dashboards help organizations plan better services.
 
-13. Author
+12. Author
 
 Ater Deng Mayen
 📍 Data Analyst | Humanitarian Data Projects
@@ -115,5 +120,6 @@ Ater Deng Mayen
 
 
 
+<img width="1330" height="582" alt="image" src="https://github.com/user-attachments/assets/4048b248-4f41-4c82-9b41-0679848d5760" />
 
 
