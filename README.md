@@ -120,7 +120,7 @@ Dashboards help organizations plan better services.
 
 Ater Deng Mayen
 📍 Data Analyst | Humanitarian Data Projects
-🔗 LinkedIn: (Insert your link)
+🔗 LinkedIn: (https://www.linkedin.com/in/ater-deng/)
 📧 aterdeng88@gmail.com
 
 
