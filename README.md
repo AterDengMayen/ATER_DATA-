@@ -61,7 +61,11 @@ Liters_Per_Person_Day	Daily water access
 Distance_to_Water_Source	Walking distance (m)
 Sanitation_Score	Condition of sanitation facilities
 Water_Source_Type	Piped, borehole, tanker, etc.
+
+
 7. Business require .txt
+
+   
 pandas
 numpy
 matplotlib
