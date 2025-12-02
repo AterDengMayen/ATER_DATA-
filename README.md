@@ -3,6 +3,8 @@
 
 Kakuma & Kalobeyei Water Access and Sanitation Data Analysis
 
+![CoverImage](src/dashboard.png)
+
 2. Business Problem
 
 Humanitarian agencies in Kakuma and Kalobeyei need reliable, data-driven insights on water access, sanitation conditions, and distance to water points to improve resource allocation, planning, and monitoring.
@@ -26,9 +28,13 @@ This project provides actionable insights for NGOs, WASH partners, and decision-
 4. Project Objectives
 
 ✔ Clean, process, and analyze water-access data
+
 ✔ Build interactive dashboards for monitoring
+
 ✔ Identify zones with lowest access and sanitation
+
 ✔ Evaluate compliance with 20L/person/day (Sphere Standard)
+
 ✔ Provide recommendations for humanitarian planning
 
 5. Criterion for Success
@@ -117,4 +123,4 @@ Ater Deng Mayen
 🔗 LinkedIn: (Insert your link)
 📧 aterdeng88@gmail.com
 
-![CoverImage](src/dashboard.png)
+
