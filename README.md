@@ -1,4 +1,4 @@
-# Water Access and Sanitation Conditions in Kakuma                                             !COVER [Uploading image.png…]()
+# Water Access and Sanitation Conditions in Kakuma                                             
 
 Capstone Analysis Using Python & Tableau
 
