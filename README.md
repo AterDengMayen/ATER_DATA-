@@ -1,14 +1,14 @@
-#Water Access and Sanitation Conditions in Kakuma
+# Water Access and Sanitation Conditions in Kakuma
 Capstone Analysis Using Python & Tableau
 
-##Project Title
+## Project Title
 
 
 
 Water Access and Sanitation Conditions in Kakuma Refugee Settlement
 
 
-##Business Problem
+## Business Problem
 
 
 
@@ -50,7 +50,7 @@ Identify geospatial patterns in water and sanitation disparities.
 
 
 
-##Criterion for Success
+## Criterion for Success
 
 
 Water access indicators (distance, liters/person/day, and time burden) are correctly analyzed, cleaned, and visualized, with clear comparisons across zones — showing, for example, that Kalobeyei and Kakuma 2 have the longest average distances (>1.3 km) and that the overall daily time burden averages 3 hours.
@@ -62,7 +62,7 @@ Sanitation conditions are correctly assessed, categorized, and mapped, with Kalo
 Geospatial and statistical patterns between water access and sanitation outcomes are clearly identified, demonstrating that zones with longer water collection distances and lower liters/person/day consistently overlap with zones having poor sanitation, confirming combined WASH vulnerabilities.
 
 
- ##Data Understanding
+ ## Data Understanding
 
 The dataset used in this analysis comes from field-level water and sanitation assessment records collected within the Kakuma Refugee Settlement for humanitarian monitoring and evaluation. It contains household-level data covering multiple zones within Kakuma and Kalobeyei.
 
@@ -147,7 +147,7 @@ Support resource prioritization for WASH partners.
 
 Produce insights understandable by non-technical teams.
 
-##ploratory Data Analysis (EDA) Summary
+## ploratory Data Analysis (EDA) Summary
 Water Access
 
 
@@ -190,7 +190,7 @@ Key Correlation
 
 Better water access is associated with better sanitation conditions, indicating the need for integrated interventions.
 
-##Conclusions
+## Conclusions
 
 
 
@@ -224,7 +224,7 @@ Health outcome correlations
 
 Seasonal supply variations
 
- ##Non-Technical Summary (Simple Language)
+ ## Non-Technical Summary (Simple Language)
 
  
 
@@ -241,10 +241,12 @@ Areas with bad water access also tend to have bad sanitation.
 In simple terms:
 Kakuma needs more clean water sources and better toilets. Improving both together will help keep people healthier and reduce disease.
 
-##Author
+## Author
 
 Ater Deng Mayen
+
 Data Analyst | Python, Excel, Tableau
-📧 aterdeng88@gmail.com
+
+aterdeng88@gmail.com
 
 
