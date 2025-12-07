@@ -271,5 +271,5 @@ Ater Deng Mayen
 Data Analyst | Python, Excel, Tableau
 
 aterdeng88@gmail.com
-
+https://www.linkedin.com/in/ater-deng/
 
