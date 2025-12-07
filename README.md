@@ -61,6 +61,28 @@ Household compliance with the 20L/person/day humanitarian water standard is accu
 Sanitation conditions are correctly assessed, categorized, and mapped, with Kalobeyei, Kakuma 2, and Kakuma 1 highlighted as zones with inadequate sanitation, while all remaining zones display moderate to better sanitation conditions.
 
 Geospatial and statistical patterns between water access and sanitation outcomes are clearly identified, demonstrating that zones with longer water collection distances and lower liters/person/day consistently overlap with zones having poor sanitation, confirming combined WASH vulnerabilities.
+Analyze Water Access Indicators
+
+Clean and standardize distance, time, and liters/person/day.
+
+Visualize zone comparisons to clearly show gaps (e.g., Kalobeyei & Kakuma 2 >1.3 km).
+After identifying the problem: Recommend expanding boreholes, tap stands, and piped systems.
+
+Evaluate Compliance With the 20L/Person/Day Standard
+
+Create a water sufficiency flag and calculate the percentage of compliant households (0%).
+After identifying the problem: Propose increased water trucking, improved distribution schedules, and upgraded supply systems.
+
+Assess Sanitation Conditions by Zone
+
+Categorize sanitation scores, map zones, and highlight inadequate areas (Kalobeyei, Kakuma 1, Kakuma 2).
+After identifying the problem: Recommend latrine construction, waste management improvements, and hygiene promotion programs.
+
+Identify Water–Sanitation Pattern Relationships
+
+Merge water and sanitation data, calculate correlations, and map combined vulnerabilities.
+After identifying the problem: Suggest integrated WASH interventions targeting zones with both water shortages and poor sanitation.
+
 
 
  ## Data Understanding
