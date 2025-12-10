@@ -1,5 +1,8 @@
 # Water Access and Sanitation Conditions in Kakuma                                             
 
+![IMAGES](IMAGES/Picture1.png)
+
+
 Capstone Analysis Using Python & Tableau
 
 ## Project Title
